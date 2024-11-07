@@ -7,7 +7,7 @@
 
 - 🔭 I’m a **Data Engineer**
 
-- 👨‍💻 Ask me about **Cloud Data Engineering**
+- 🎥 Youtube **https://www.youtube.com/@AnshLambaJSR**
 
 - 💬 LinkedIn **https://www.linkedin.com/in/ansh-lamba-793681184/**
 
